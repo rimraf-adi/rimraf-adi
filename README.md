@@ -29,22 +29,11 @@ I'm a passionate researcher and developer with a strong focus on **Machine Learn
 - Data Pipeline Architecture
 - Research & Development
 
-## 🎯 What I'm Working On
-
-- 🔍 Developing novel approaches for neonatal seizure detection using advanced signal processing techniques
-- 🚀 Building MLOps pipelines for healthcare AI applications
-- 📊 Exploring time-series analysis methods for EEG data
-- 🧪 Experimenting with different neural network architectures for biomedical applications
 
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rimraf-adi&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
-
-<!-- Add your key repositories here as you develop them -->
-- 🧠 **Neonatal Seizure Detection** - Research project on EEG-based seizure identification
-- 🔧 **MLOps Tools** - Custom tools and pipelines for machine learning operations
 
 ## 📚 Learning & Growth
 
@@ -53,14 +42,6 @@ I'm constantly learning and staying updated with the latest developments in:
 - MLOps best practices and tools
 - Biomedical signal processing methodologies
 - Healthcare AI ethics and implementation
-
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on research projects, discussing MLOps challenges, or exploring new ideas in healthcare AI. Feel free to reach out!
-
-- 💼 Open to research collaborations
-- 🎓 Interested in academic partnerships
-- 🔬 Passionate about open-source contributions to healthcare AI
 
 ---
 
