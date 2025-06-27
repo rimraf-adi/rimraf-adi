@@ -86,7 +86,9 @@ I'm a pre-final year B.Tech ECE student exploring how to bridge **ML research** 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimraf-adi&show_icons=true&theme=default&hide_title=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimraf-adi&layout=compact&langs_count=8&theme=default&hide_title=true&hide_border=true" width="60%"/>
+
+
 </p>
 
   </tr>
